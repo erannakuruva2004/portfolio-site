@@ -20,7 +20,7 @@ export default function About() {
             <div className="relative">
               <div className="glass-strong -rotate-2 overflow-hidden rounded-2xl p-2">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80&auto=format&fit=crop"
+                  src="/image/photo.jpg"
                   alt={personalInfo.name}
                   className="aspect-[4/5] w-full rounded-xl object-cover transition-transform duration-700 hover:scale-105"
                   loading="lazy"
